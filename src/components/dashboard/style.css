@@ -1,0 +1,10 @@
+.container {
+}
+.box{
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    background:blueviolet;
+    width: 150px;
+    height: 150px;
+}
